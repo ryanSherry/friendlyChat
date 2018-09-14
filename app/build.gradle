@@ -42,5 +42,5 @@ dependencies {
     // Displaying images
     implementation 'com.github.bumptech.glide:glide:4.6.1'
 
-    implementation 'com.google.firebase:firebase-core:16.0.1'
+    implementation 'com.google.firebase:firebase-core:16.0.3'
 }
